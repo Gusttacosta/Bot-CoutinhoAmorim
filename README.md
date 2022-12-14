@@ -1,4 +1,4 @@
 # Bot-CoutinhoAmorim
-Ola! eu estou criando um bot que faz uma postagem no Tweet usando tweepy.
+Ola! Eu estou criando um bot que faz uma postagem no Tweet com base na interação entre dois queridos usando tweepy.
 
 Em breve terá novas atualizações
